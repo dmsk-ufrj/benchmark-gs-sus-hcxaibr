@@ -7,10 +7,6 @@ information guidance in Brazil, evaluating six large language models
 Accessible Language, Local Contextualization, Contestability, and
 Transparency.
 
-> Manuscript under Major Revisions at *MDPI Algorithms* (special issue
-> "Explainable AI: Advances in Interpretability Algorithms and
-> Applications"). Citation details will be added here once the camera-ready
-> version is accepted.
 
 ## What's in this repository
 
@@ -145,7 +141,4 @@ draw on Rater 1's justifications only.
 - **Code** (everything under `scripts/`): released under the
   [MIT License](https://opensource.org/license/mit/).
 
-*(These were chosen as reasonable defaults for an open academic benchmark and
-have not yet been confirmed with all co-authors — update
-`LICENSE-DATA`/`LICENSE-CODE` if a different choice is preferred before
-pushing.)*
+
